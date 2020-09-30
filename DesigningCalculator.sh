@@ -1,4 +1,5 @@
 #Write a Shell Programming for designing a Calculator 
+#!/bin/sh
 echo"Simple Calculator"
 sum=0
 i="y"
