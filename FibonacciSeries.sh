@@ -1,4 +1,5 @@
 #Write a Shell Programming for Fibonacci Series
+#!/bin/sh
 echo "How many number of terms to be generated?"
 read n
 x=0
